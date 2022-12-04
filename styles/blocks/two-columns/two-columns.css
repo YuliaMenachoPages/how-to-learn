@@ -1,9 +1,0 @@
-.two-columns {
-  display: flex;
-  align-items: center;
-  margin: 0 auto;
-  flex-wrap: nowrap;
-  justify-content: space-between;
-  flex-direction: row;
-  width: 80%;
-}
